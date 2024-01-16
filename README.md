@@ -6,8 +6,8 @@
 
 ## Freelancer
 
-If you need a Android Titanium module, app support, a new app or a Wordpress/Elementor page: [visit my page](https://migaweb.de) and get in contact with me.
+If you need an Android Titanium module, app support, a new app or a Wordpress/Elementor page: [visit my page](https://migaweb.de) and get in contact with me.
 
 ## Sponsorship
 
-In my freetime I work on the [Titanium Mobile SDK](https://github.com/tidev/titanium_mobile), develop Android Titanium modules, write Titanium tutorials ([fromzerotoapp.com](fromzerotoapp.com)) and provide support at [TiSlack](https://tidev.slack.com/)! If you like my work or benefit from one of my modules you might want to support me by visiting my <b>[Github Sponsors](https://github.com/sponsors/m1ga)</b> page and becoming a Github Sponsor.
+In my freetime I work on the [Titanium SDK](https://github.com/tidev/titanium-sdk), develop Android Titanium modules, write Titanium tutorials ([fromzerotoapp.com](fromzerotoapp.com)) and provide support at [TiSlack](https://tidev.slack.com/)! If you like my work or benefit from one of my modules you might want to support me by visiting my <b>[Github Sponsors](https://github.com/sponsors/m1ga)</b> page and becoming a Github Sponsor.
